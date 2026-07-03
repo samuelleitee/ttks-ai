@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="220" fill="#0B0F17"/>
+
+  <!-- Glow -->
+  <circle cx="512" cy="512" r="320" fill="#6D5EFC" opacity="0.15"/>
+
+  <!-- Inner ring -->
+  <circle cx="512" cy="512" r="220" stroke="#6D5EFC" stroke-width="18" opacity="0.9"/>
+
+  <!-- Lightning bolt (AI / automation symbol) -->
+  <path
+    d="M560 210L420 540H520L464 814L610 470H500L560 210Z"
+    fill="#E8EEFC"
+  />
+
+  <!-- Small accent dot -->
+  <circle cx="760" cy="300" r="10" fill="#6D5EFC"/>
+</svg>
